@@ -15,7 +15,6 @@ pykeyboard
 pyrogram==2.0.106
 python-dotenv
 pyyaml
-node==15.0.0+
 requests
 speedtest-cli
 spotipy
