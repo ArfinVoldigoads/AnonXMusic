@@ -4,6 +4,7 @@ from AnonXMusic.core.git import git
 from AnonXMusic.core.userbot import Userbot
 from AnonXMusic.misc import dbb, heroku
 
+
 from .logging import LOGGER
 
 dirr()
@@ -11,8 +12,9 @@ git()
 dbb()
 heroku()
 
-app = Anony()
+app = AnonXMusic()
 userbot = Userbot()
+
 
 from .platforms import *
 
