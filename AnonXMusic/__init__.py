@@ -12,7 +12,7 @@ git()
 dbb()
 heroku()
 
-app = AnonXMusic()
+app = Anony()
 userbot = Userbot()
 
 
